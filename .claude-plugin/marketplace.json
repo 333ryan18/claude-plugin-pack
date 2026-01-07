@@ -1,0 +1,11 @@
+{
+  "name": "claude-plugin-pack",
+  "description": "A collection of Claude Code plugins",
+  "plugins": [
+    {
+      "name": "ralph-wiggum-windows",
+      "path": "plugins/ralph-wiggum-windows",
+      "description": "Windows implementation of the Ralph Wiggum technique for continuous self-referential AI loops"
+    }
+  ]
+}
