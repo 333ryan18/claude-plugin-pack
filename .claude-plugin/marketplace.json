@@ -1,10 +1,17 @@
 {
   "name": "claude-plugin-pack",
-  "description": "A collection of Claude Code plugins",
+  "owner": {
+    "name": "Ryan Rukab",
+    "email": "ryanrukab@gmail.com"
+  },
+  "metadata": {
+    "description": "A collection of Claude Code plugins",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "ralph-wiggum-windows",
-      "path": "plugins/ralph-wiggum-windows",
+      "source": "plugins/ralph-wiggum-windows",
       "description": "Windows implementation of the Ralph Wiggum technique for continuous self-referential AI loops"
     }
   ]
