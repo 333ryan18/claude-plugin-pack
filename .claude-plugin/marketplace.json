@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "ralph-wiggum-windows",
-      "source": "plugins/ralph-wiggum-windows",
+      "source": "./plugins/ralph-wiggum-windows",
       "description": "Windows implementation of the Ralph Wiggum technique for continuous self-referential AI loops"
     }
   ]
